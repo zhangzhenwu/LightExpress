@@ -1,0 +1,24 @@
+{
+  "name": "LightExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzhenwu/LightExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzhenwu/LightExpress/issues"
+  },
+  "homepage": "https://github.com/zhangzhenwu/LightExpress#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path-to-regexp": "^2.2.0"
+  }
+}
